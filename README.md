@@ -4,3 +4,5 @@ Heya! I go by Rez (short for my name; security purposes and a result of my cyber
 
 Outside of anything security-related, you'll find me designing websites, UI/UX, and mobile apps, just for fun!
 
+Protfolio website: pending...
+
