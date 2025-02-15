@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-Heya! I go by Rez (short for my name; security purposes and a result of my post-cybersecurity degree paranoia.) and I'm a Cybersecurity student. 
+Heya! I go by Rez and I'm a Cybersecurity graduate. 
 
 I'm passionate about bug bounty, penetration testing, hunting zero-days, ethical hacking, busting drug lords, and documenting my learning journey!
 
